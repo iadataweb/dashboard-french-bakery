@@ -1,6 +1,6 @@
 # Dashboard de French Bakery en Excel
 
-¡Bienvenido a mi proyecto de Dashboard de Panadería Francesa en Excel! Este proyecto utiliza datos extraídos de Kaggle, que han sido limpiados y preparados con Python para crear un dashboard interactivo.
+¡Bienvenido a mi proyecto de Dashboard de Panadería Francesa en Excel! Este proyecto utiliza datos extraídos de Kaggle, que han sido limpiados y preparados con Power Query para crear un dashboard interactivo.
 
 ![Captura de Pantalla del Dashboard](images/dashboard.png)
 
@@ -9,7 +9,7 @@
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Proceso de Creación](#proceso-de-creación)
 - [Instalación](#instalación)
-- [Uso](#uso)
+- [Características](#características)
 - [Fuentes de Datos](#fuentes-de-datos)
 - [Contribuciones](#contribuciones)
 - [Contacto](#contacto)
@@ -32,15 +32,20 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 1. Clona este repositorio:
    
    ```bash
-   git clone https://github.com/iadataweb/_.git
-   
-## Uso
+   git clone https://github.com/iadataweb/dashboard-french-bakery.git
 
-Explora el dashboard para obtener información sobre:
-- Tipos de contenido.
-- Títulos, elenco y países asociados.
-- Géneros y lanzamientos por año.
-- Valoraciones y fechas de agregado del contenido.
+## Características
+- Tarjetas KPI:
+  - Ventas totales.
+  - Cantidad de productos vendidos.
+  - Importe promedio.
+  - Total de transacciones.
+- Gráficos Dinámicos:
+  - Ventas totales por mes.
+  - Ventas totales por día.
+  - Ventas totales por días de la semana.
+  - Los 5 productos más vendidos.
+  - Los 10 productos que generan más ventas.
 
 ## Fuentes de Datos
 
