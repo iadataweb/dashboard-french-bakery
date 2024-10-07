@@ -20,7 +20,7 @@ Este proyecto consiste en un **dashboard interactivo de ventas** desarrollado en
 
 ## Proceso de Creación
 
-- Utilicé Power Query en Excel para limpiar los datos que incluye en renombrar las columnas, cambiar los separadores para asegurar que los datos se leyeran correctamente como números, corrigiendo formatos y eliminando duplicados.
+- Utilicé Power Query en Excel para limpiar los datos, lo que incluyó renombrar las columnas, cambiar los separadores para asegurar que los datos se leyeran correctamente como números, corregir formatos y eliminar duplicados.
 - Creé una tabla de calendario con Power Query que nos permita un análisis por periodos.
 - Establecí relaciones entre las tablas para crear un modelo de datos sólido.
 - Utilicé tablas dinámicas para crear las visualizaciones interactivas y KPIs en el dashboard.
