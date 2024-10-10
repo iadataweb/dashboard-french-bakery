@@ -35,6 +35,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
    git clone https://github.com/iadataweb/dashboard-french-bakery.git
 
 ## Características
+
 - Tarjetas KPI con comparaciones respecto al año anterior:
   - Ventas totales.
   - Cantidad de productos vendidos.
