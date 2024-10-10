@@ -34,7 +34,7 @@ Para ejecutar este proyecto localmente, sigue los siguientes pasos:
    ```bash
    git clone https://github.com/iadataweb/dashboard-french-bakery.git
 
-## Características
+## Visualizaciones
 
 - Tarjetas KPI con comparaciones respecto al año anterior:
   - Ventas totales.
