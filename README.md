@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi proyecto de Dashboard de Panadería Francesa en Excel! Este proyecto utiliza datos extraídos de Kaggle, que han sido limpiados y preparados con Power Query para crear un dashboard interactivo.
 
-![Captura de Pantalla del Dashboard](images/dashboard.png)
+![Captura de Pantalla del Dashboard](images/cover/001.png)
 
 ## Contenidos
 
